@@ -1,0 +1,10 @@
+.footer-section {
+  text-align: center;
+  font-size: 1.2rem;
+  margin: auto;
+  font-family: "Segoe UI", sans-serif;
+  padding: 1rem;
+}
+.footer-text {
+  color: rgb(255, 255, 255);
+}
