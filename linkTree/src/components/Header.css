@@ -48,10 +48,10 @@
   font-weight: 600;
   font-family: "Segoe UI", sans-serif;
   color: aqua;
-  /* background: linear-gradient(180deg, #fbfbfc, #0ca4eb);
+  background: linear-gradient(180deg, #fbfbfc, #0ca4eb);
   background-clip: text;
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent; */
+  -webkit-text-fill-color: transparent;
 }
 .name-section .user-name {
   font-size: clamp(1rem, 3vw, 1.5rem);
