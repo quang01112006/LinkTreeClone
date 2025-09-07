@@ -2,7 +2,9 @@
   display: flex;
   border: blue solid 1px;
   width: 90%;
-  max-height: 6rem;
+  max-width: 60rem;
+
+  min-height: 4rem;
   background: linear-gradient(to right, #01ccff6b, #5d07ad67);
   margin: 1rem auto;
   border-radius: 10px;
@@ -47,15 +49,15 @@
   color: aqua;
 }
 .socialImg {
-  max-width: 5rem;
+  width: clamp(2rem, 10%, 5rem);
   height: auto;
   border-radius: 10px;
   object-fit: cover;
-  margin: 0.5rem 1rem;
+  margin: 0.5rem;
 }
 .socialName {
   text-decoration: none;
-  font-size: clamp(1.5rem, 5vw, 2rem);
+  font-size: clamp(1rem, 4vw, 2rem);
   flex: 1;
 }
 .share-btn {

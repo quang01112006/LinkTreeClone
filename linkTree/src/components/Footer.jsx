@@ -4,7 +4,6 @@ function Footer() {
     <>
       <div className="footer-section">
         <p className="footer-text">Made by Reina °-°</p>
-        <p className="ps">Gia Lai, 2025</p>
       </div>
     </>
   );

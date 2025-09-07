@@ -54,7 +54,7 @@
   -webkit-text-fill-color: transparent; */
 }
 .name-section .user-name {
-  font-size: clamp(1rem, 4vw, 1.5rem);
+  font-size: clamp(1rem, 3vw, 1.5rem);
   font-style: italic;
   font-family: Arial, sans-serif;
   color: #cccc;
