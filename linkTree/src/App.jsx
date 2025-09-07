@@ -2,11 +2,11 @@ import "./App.css";
 import Header from "./components/Header";
 import Links from "./components/Links";
 import Footer from "./components/Footer";
-import ytbImg from "./assets/images/ytb-icon.jpg";
-import igImg from "./assets/images/ig-icon.jpg";
-import tiktokImg from "./assets/images/tiktok-icon.jpg";
-import aniImg from "./assets/images/anilist-icon.jpg";
-import kofiImg from "./assets/images/kofi.jpg";
+import ytbImg from "./assets/images/ytb-icon.webp";
+import igImg from "./assets/images/ig-icon.webp";
+import tiktokImg from "./assets/images/tiktok-icon.webp";
+import aniImg from "./assets/images/anilist-icon.webp";
+import kofiImg from "./assets/images/kofi.webp";
 
 function App() {
   const linksData = [

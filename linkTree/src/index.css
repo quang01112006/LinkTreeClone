@@ -9,7 +9,7 @@ html {
 }
 body {
   min-height: 100vh;
-  background-image: url("./assets/images/img.jpg");
+  background-image: url("./assets/images/img.webp");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

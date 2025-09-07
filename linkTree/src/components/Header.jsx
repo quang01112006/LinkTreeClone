@@ -1,5 +1,5 @@
-import coverImg from "../assets/images/cover.jpg";
-import avtImg from "../assets/images/avt.jpg";
+import coverImg from "../assets/images/cover.webp";
+import avtImg from "../assets/images/avt.webp";
 import "./Header.css";
 
 function Header({ name, userName, bio }) {
