@@ -59,6 +59,7 @@
   text-decoration: none;
   font-size: clamp(1rem, 4vw, 2rem);
   flex: 1;
+  font-weight: 300;
 }
 .share-btn {
   max-width: 5rem;
